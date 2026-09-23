@@ -48,6 +48,7 @@ echo "Dãy $n số Fibonacci đầu tiên là: " . implode(", ", $result);
 // Bài thực hành 2:
 echo "<br><br>Bài thực hành 2:<br>";
 $host = "127.0.0.1";
+$port = '3307';
 $user = "root";
 $pass = "";
 $dbname = "quanly_hocsinh";
